@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">HahaLi fix conflict - 李菁华</div>
             </div>
         </div>
     </body>
